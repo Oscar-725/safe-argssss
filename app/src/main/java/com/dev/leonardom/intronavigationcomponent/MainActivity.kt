@@ -7,6 +7,7 @@ import com.dev.leonardom.intronavigationcomponent.databinding.ActivityMainBindin
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
+    private val oscarcambi:String = ""
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
